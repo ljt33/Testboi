@@ -5,11 +5,28 @@ body {
 }
 
 h1 {
-    margin: 300px;
+    text-align: center;
     color: #000000;
-    transform: skew(15deg, 15deg);  
 }
 
+nav {
+    text-align: center;
+}
+
+img {
+    image: center;
+    height: 40%;
+    width: 40%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
 p {
+    text-align: center;
     line-height: 1.6;
 }
