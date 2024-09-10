@@ -1,11 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #00f5a4;
     color: #333;
 }
 
 h1 {
-    color: #007BFF;
+    margin: 300px;
+    color: #000000;
+    transform: skew(15deg, 15deg);  
 }
 
 p {
